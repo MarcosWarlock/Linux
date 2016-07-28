@@ -1,0 +1,3 @@
+#!/bin/bash
+compiz --replace decoration wobbly fade minimize cube resize move place rotate scale switcher water blur zoom screenshot & sleep 3 & emerald &
+
