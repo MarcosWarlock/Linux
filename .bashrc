@@ -1,4 +1,6 @@
 # Powerline
+# No archlinux pacman -S powerline powerline-fonts 
+
 if [ -f `which powerline-daemon` ]; then
 	powerline-daemon -q
 	POWERLINE_BASH_CONTINUATION=1
